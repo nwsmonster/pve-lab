@@ -10,7 +10,6 @@ This project represents my Proxmox-based homelab. It is not an instructional gui
 
 - [ ] Provision VMs with Terraform
 - [ ] Install k3s with Ansible
-- [ ] Use AlmaLinux for stability and length of support
 
 ## Contributing
 
