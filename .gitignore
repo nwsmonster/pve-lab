@@ -115,5 +115,3 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,vim,visualstudiocode
-
-k3s-master-1.yaml
