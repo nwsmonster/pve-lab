@@ -1,4 +1,8 @@
 {
+  "files.associations": {
+    "UNLICENSE": "plaintext",
+    "LICENSE": "plaintext"
+  },
   "[yaml]": {
     "editor.defaultFormatter": "redhat.vscode-yaml"
   }
