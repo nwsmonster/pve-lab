@@ -4,7 +4,7 @@
 [![license](https://img.shields.io/github/license/nwsmonster/pve-lab?logo=unlicense&logoColor=white)](https://unlicense.org/)
 ![GitHub issues](https://img.shields.io/github/issues-raw/nwsmonster/pve-lab)
 
-This project represents my Proxmox-based homelab. It is not an instructional guide or tutorial, but hopefully can be of educational use to someone.
+This project represents my Proxmox-based homelab. It is not an instructional guide or tutorial, but hopefully can be of educational use to someone. See [Decision Records](DECISION_RECORDS.md) to understand the madness.
 
 ## Goals
 
