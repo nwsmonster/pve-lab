@@ -4,6 +4,9 @@
 
 ```shellscript
 curl -sfL https://get.k3s.io | sh -s - server --disable servicelb --disable traefik --write-kubeconfig-mode 644
+# make sure to update the addresses in [install-metallb.sh](./metallb-system/install-metallb.sh)
+./metallb-system/install-metallb.sh
+./ingress-nginx/install-nginx.sh
 ```
 
 ## Testing
