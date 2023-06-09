@@ -20,5 +20,5 @@ This project is intended for personal use, but if you see an issue with, or an i
 
 - [pre-commit](https://pre-commit.com/)
   - `pip install pre-commit`
-- [yamllint](https://github.com/adrienverge/yamllint) 
+- [yamllint](https://github.com/adrienverge/yamllint)
   - `pip install yamllint`
